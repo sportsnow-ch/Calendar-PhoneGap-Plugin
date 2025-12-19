@@ -3,7 +3,7 @@
     xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-plugin-calendar"
-    version="5.1.6">
+    version="5.1.7">
 
   <name>Calendar</name>
 
@@ -17,9 +17,9 @@
 
   <keywords>Calendar, Agenda, Event</keywords>
 
-  <repo>https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin.git</repo>
+  <repo>https://github.com/sportsnow-ch/Calendar-PhoneGap-Plugin.git</repo>
 
-  <issue>https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin/issues</issue>
+  <issue>https://github.com/sportsnow-ch/Calendar-PhoneGap-Plugin/issues</issue>
 
   <engines>
       <engine name="cordova-android" version=">=6.3.0" />

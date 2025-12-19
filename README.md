@@ -1,5 +1,7 @@
 # PhoneGap Calendar plugin
 
+> **Note**: This is a fork of [EddyVerbruggen/Calendar-PhoneGap-Plugin](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin) that includes the patch from [PR #567](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin/pull/567) which was never merged upstream. This patch refactors calendar permissions to separate full and write-only access initialization methods.
+
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][npm-url]
 [![TotalDownloads][total-downloads-image]][npm-url]
